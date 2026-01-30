@@ -1,0 +1,22 @@
+{
+	"title": "Spaghetti alla Carbonara",
+	"description": "Spaghetti alla Carbonara is a rich, creamy Roman pasta made with eggs, cheese, pork, and black pepper—no cream involved. The sauce forms when hot pasta emulsifies eggs and cheese.",
+	"fun_fact": "Carbonara originated in Rome in the mid-20th century. One theory links it to charcoal workers (“carbonai”), while another credits American soldiers who introduced bacon and eggs during WWII.",
+	"ingredients": [
+		"200 g spaghetti",
+		"100 g guanciale (or pancetta)",
+		"2 large eggs + 1 yolk",
+		"60 g Pecorino Romano, finely grated",
+		"Freshly ground black pepper",
+		"Salt (for pasta water)"
+	],
+	"instructions": [
+		"Boil pasta in well-salted water until al dente.",
+		"Dice guanciale and cook over medium heat until crisp; remove from heat.",
+		"Whisk eggs, yolk, cheese, and black pepper in a bowl.",
+		"Reserve ½ cup pasta water, then drain pasta.",
+		"Add pasta to guanciale, then remove from heat.",
+		"Stir in egg mixture quickly, adding pasta water as needed to create a creamy sauce.",
+		"Serve immediately with extra cheese and pepper."
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"title": "Risotto alla Milanese",
+	"description": "This creamy risotto is flavored with saffron, giving it a golden color and subtle floral aroma.",
+	"fun_fact": "Risotto alla Milanese dates back to the 16th century in Milan, where saffron was widely used in art and cooking.",
+	"ingredients": [
+		"1.5 cups Arborio rice",
+		"1 small onion, finely chopped",
+		"4 cups warm chicken broth",
+		"1/2 cup dry white wine",
+		"1 pinch saffron threads",
+		"50 g butter",
+		"50 g Parmesan cheese",
+		"Olive oil"
+	],
+	"instructions": [
+		"Heat broth and add saffron to infuse.",
+		"Sauté onion in olive oil until soft.",
+		"Add rice and toast for 1–2 minutes.",
+		"Deglaze with wine.",
+		"Add broth gradually, stirring constantly.",
+		"Cook until creamy and al dente (~18 minutes).",
+		"Stir in butter and Parmesan; rest 2 minutes before serving."
+	]
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Margherita Pizza",
+    "description": "Pizza Margherita is a simple pizza topped with tomato sauce, mozzarella, and basil—representing the colors of the Italian flag.",
+    "fun_fact": "Created in Naples in 1889, the pizza was named after Queen Margherita of Savoy. It became the foundation of modern Neapolitan pizza.",
+    "ingredients": [
+        "Pizza dough",
+        "1/2 cup San Marzano tomato sauce",
+        "150 g fresh mozzarella",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt"
+    ],
+    "instructions": [
+        "Preheat oven to maximum temperature (250–300°C if possible).",
+        "Stretch dough into a thin circle.",
+        "Spread tomato sauce lightly; season with salt.",
+        "Add torn mozzarella.",
+        "Bake 7–10 minutes until crust is blistered.",
+        "Finish with basil and a drizzle of olive oil."
+    ]
+}

@@ -1,19 +1,9 @@
-from dataclasses import dataclass
 import json
 from pathlib import Path
 from typing import Literal
 from fastmcp import FastMCP
-from pydantic import BaseModel, Field
+from .recipe import Recipe
 
-
-class Recipe(BaseModel):
-    name: str = Field(..., description="Name of the recipe")
-    description: str = Field(..., description="Description of the recipe")
-    fun_fact: str = Field(
-        ..., description="Fun fact about the recipe", default_factory=""
-    )
-    ingredients: list[str] = Field(..., description="List of ingredients")
-    instructions: list[str] = Field(..., description="List of instructions")
 
 
 def register_tools(mcp: FastMCP):
@@ -23,6 +13,7 @@ def register_tools(mcp: FastMCP):
         file_path = Path(f"./documents/{recipe.name}.json")
         if file_path.exists():
             return f"Error: Document {recipe.name} already exists"
+        file_path.parent.mkdir(parents=True, exist_ok=True)
         content = json.dumps(recipe.model_dump(), indent=2)
         file_path.write_text(content, encoding="utf-8")
         return f"Created {recipe.name} recipe"
@@ -52,7 +43,10 @@ def register_tools(mcp: FastMCP):
     def search_recipes(query: str) -> str:
         """Search for text across all recipe."""
         results = []
-        for file in Path("./documents").glob("*.json"):
+        docs_dir = Path("./documents")
+        if not docs_dir.exists():
+            return json.dumps(results)
+        for file in docs_dir.glob("*.json"):
             content = file.read_text(encoding="utf-8")
             if query.lower() in content.lower() or query.lower() in file.stem.lower():
                 results.append(

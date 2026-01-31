@@ -1,0 +1,22 @@
+{
+  "name": "Cheesy Chicken Noodle Bowl",
+  "description": "A simple and comforting meal combining the classic flavors of chicken, noodles, and cheese.",
+  "fun_fact": "",
+  "ingredients": [
+    "200g instant noodles",
+    "150g cooked chicken breast, sliced",
+    "30g cheddar cheese, grated",
+    "Salt to taste",
+    "Pepper to taste",
+    "Vegetable oil for frying"
+  ],
+  "instructions": [
+    "Boil the instant noodles according to package instructions.",
+    "Slice the cooked chicken breast into thin pieces.",
+    "Fry a small amount of vegetable oil in a pan.",
+    "Add the sliced chicken and cook until slightly browned.",
+    "Drain the boiled noodles and add them to the pan with the chicken.",
+    "Mix well and season with salt and pepper.",
+    "Grate the cheese over the top before serving."
+  ]
+}

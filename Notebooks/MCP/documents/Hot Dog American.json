@@ -1,0 +1,27 @@
+{
+  "name": "Hot Dog American",
+  "description": "A classic American-style hot dog featuring a juicy frankfurter served in a soft bun with your choice of traditional toppings. This is the quintessential street food enjoyed at ballparks, cookouts, and food stands across America.",
+  "fun_fact": "The hot dog became an American icon in the early 1900s, with the term 'hot dog' likely popularized at baseball games. Nathan's Famous Hot Dog Eating Contest, held annually at Coney Island since 1916, is one of the oldest continuous sporting events in the United States.",
+  "ingredients": [
+    "1 hot dog (frankfurter)",
+    "1 hot dog bun",
+    "2 tablespoons mustard (yellow or spicy brown)",
+    "1 tablespoon ketchup",
+    "1 tablespoon chopped onions (optional)",
+    "1 tablespoon sweet pickle relish (optional)",
+    "Salt and pepper to taste",
+    "1 teaspoon butter or cooking oil"
+  ],
+  "instructions": [
+    "Heat a skillet or grill over medium-high heat and lightly oil it.",
+    "Place the hot dog on the hot surface and cook for about 5-7 minutes, turning occasionally, until heated through and lightly browned on all sides.",
+    "Alternatively, boil the hot dog in water for 5 minutes or microwave for 1-2 minutes until heated.",
+    "Lightly butter or toast the bun on the grill or in a toaster for 1-2 minutes for a crispier texture (optional but recommended).",
+    "Place the cooked hot dog in the bun.",
+    "Apply mustard in a thin zigzag pattern along the length of the hot dog.",
+    "Add ketchup in a similar zigzag pattern.",
+    "Top with chopped onions and relish if desired.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately while hot and enjoy!"
+  ]
+}

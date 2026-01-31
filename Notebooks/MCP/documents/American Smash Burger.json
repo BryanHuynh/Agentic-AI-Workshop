@@ -1,0 +1,24 @@
+{
+  "name": "American Smash Burger",
+  "description": "A delicious American smash burger recipe featuring grilled beef patty, melted cheddar cheese, crispy bacon, and sweet caramelized onions.",
+  "fun_fact": "A classic burger topped with cheese, bacon, and caramelized onions on a toasted brioche bun.",
+  "ingredients": [
+    "Beef patties",
+    "4 slices of cheddar cheese",
+    "6 slices of bacon",
+    "1 large onion",
+    "2 tablespoons olive oil",
+    "Brioche buns"
+  ],
+  "instructions": [
+    "Grill beef patties to desired doneness.",
+    "Melt 2 slices of cheese on top of each patty.",
+    "Caramelize onions in a pan with olive oil until golden brown.",
+    "Add crispy bacon on top of the burger.",
+    "Assemble burgers by spreading mayonnaise or ketchup on the bottom bun, followed by lettuce, tomato, and finally the beef patty topped with cheese and onions.",
+    "Top with brioche bun.",
+    "Add a tablespoon of sesame seeds on top before assembling the burger.",
+    "Add grated cheese on top of the patty before grilling.",
+    "Fry 3 slices of bacon and place them between the beef patty and the cheese after they are grilled but before adding the onions."
+  ]
+}

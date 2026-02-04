@@ -24,6 +24,7 @@ dependencies = [
     { name = "langchain-ollama" },
     { name = "langchain-text-splitters" },
     { name = "notebook" },
+    { name = "prompt-toolkit" },
     { name = "rank-bm25" },
 ]
 
@@ -40,6 +41,7 @@ requires-dist = [
     { name = "langchain-ollama", specifier = ">=1.0.1" },
     { name = "langchain-text-splitters", specifier = ">=1.1.0" },
     { name = "notebook", specifier = ">=7.5.2" },
+    { name = "prompt-toolkit", specifier = ">=3.0.52" },
     { name = "rank-bm25", specifier = ">=0.2.2" },
 ]
 

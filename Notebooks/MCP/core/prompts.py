@@ -15,3 +15,4 @@ Use the create_recipe tool with the following fields:
     - ingredients: A complete list of ingredients with quantities
     - instructions: Step-by-step cooking instructions
 """
+

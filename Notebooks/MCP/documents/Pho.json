@@ -1,0 +1,33 @@
+{
+  "name": "Pho",
+  "description": "A delicious Vietnamese noodle soup made with tender slices of beef or chicken, combined with rice noodles, herbs, and flavorful broth",
+  "fun_fact": "Pho, a Vietnamese noodle soup, is often served with a variety of condiments and fresh herbs to customize the flavor according to one's preference.",
+  "ingredients": [
+    "2 lbs beef bones",
+    "1 lb beef sirloin sliced thinly against the grain",
+    "1 bunch cilantro",
+    "3 green onions, chopped",
+    "5 cloves garlic, smashed",
+    "3 star anise",
+    "2 cinnamon sticks",
+    "4 whole cloves",
+    "2 black cardamom pods",
+    "1 tbsp coriander seeds",
+    "1 bay leaf",
+    "4 cups fish sauce",
+    "2 tbsp oyster sauce",
+    "2 tbsp light soy sauce",
+    "1 tbsp rice vinegar",
+    "6 cups beef broth",
+    "8 oz rice noodles",
+    "1 lime, cut into wedges",
+    "1/4 cup thinly sliced red onion"
+  ],
+  "instructions": [
+    "In a large pot, bring the beef bones to a boil and skim off any foam.",
+    "Add the garlic, star anise, cinnamon sticks, cloves, cardamom pods, coriander seeds, bay leaf, fish sauce, oyster sauce, soy sauce, rice vinegar, and beef broth. Simmer for at least 2 hours on low heat.",
+    "Meanwhile, slice the beef thinly against the grain and set aside.",
+    "Cook the rice noodles according to package instructions, then drain and rinse with cold water.",
+    "Serve hot bowls of beef broth topped with a few slices of beef, cooked rice noodles, and garnished with cilantro, green onions, lime wedges, and sliced red onion."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Banana Milk Shake",
+  "description": "A classic, creamy banana milk shake made with fresh bananas, cold milk, and ice. Simple, refreshing, and perfect for breakfast or a quick snack.",
+  "fun_fact": "The modern milkshake became popular in the 1920s when electric blenders were invented, making it easy to mix ice cream and milk together into a smooth drink.",
+  "ingredients": [
+    "2 ripe bananas, peeled and sliced",
+    "1.5 cups cold milk",
+    "1 cup ice",
+    "1 tablespoon honey or sugar (optional)",
+    "Pinch of vanilla extract (optional)"
+  ],
+  "instructions": [
+    "Add sliced bananas and ice to a blender.",
+    "Pour in the cold milk.",
+    "Add honey and vanilla if desired.",
+    "Blend on high speed for 30-45 seconds until smooth and creamy.",
+    "Pour into a tall glass and serve immediately.",
+    "Optional: top with a banana slice or a drizzle of honey."
+  ]
+}

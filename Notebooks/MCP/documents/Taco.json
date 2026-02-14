@@ -1,0 +1,26 @@
+{
+  "name": "Taco",
+  "description": "A traditional Mexican dish consisting of a folded or rolled tortilla filled with various ingredients such as meat, beans, cheese, and vegetables.",
+  "fun_fact": "Tacos originated in Mexico and have been a part of Mexican cuisine for centuries. The word 'taco' is believed to come from the Nahuatl word 'tlahco,' meaning 'half' or 'in the middle,' referring to the way the tortilla is folded around the filling.",
+  "ingredients": [
+    "8 small corn tortillas",
+    "1 lb ground beef",
+    "1 packet taco seasoning",
+    "1 cup shredded lettuce",
+    "1 cup diced tomatoes",
+    "1/2 cup shredded cheese",
+    "1/4 cup chopped onions",
+    "1/4 cup chopped fresh cilantro",
+    "Sour cream (optional)",
+    "Salsa (optional)"
+  ],
+  "instructions": [
+    "Cook the ground beef in a skillet over medium heat until browned.",
+    "Drain excess fat from the beef.",
+    "Add taco seasoning and water as per packet instructions, and simmer for 5 minutes.",
+    "Warm the tortillas in a dry skillet or microwave.",
+    "Fill each tortilla with the seasoned beef.",
+    "Top with shredded lettuce, diced tomatoes, shredded cheese, onions, and cilantro.",
+    "Serve with sour cream and salsa on the side if desired."
+  ]
+}

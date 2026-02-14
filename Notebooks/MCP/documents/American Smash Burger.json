@@ -1,25 +1,26 @@
 {
   "name": "American Smash Burger",
-  "description": "A delicious American smash burger recipe featuring grilled beef patty, melted cheddar cheese, crispy bacon, and sweet caramelized onions.",
-  "fun_fact": "A classic burger topped with cheese, bacon, and caramelized onions on a toasted brioche bun.",
+  "description": "The American Smash Burger is a juicy, crispy-edged burger made by smashing a beef patty on a hot griddle, topped with classic American cheese, pickles, onions, and a tangy sauce, all served on a soft bun.",
+  "fun_fact": "The smash burger technique, popularized in American diners, involves pressing the burger patty thin on a hot griddle to create a crispy, caramelized crust. This method maximizes flavor and texture, making it a favorite in fast-food culture.",
   "ingredients": [
-    "Beef patties",
-    "4 slices of cheddar cheese",
-    "6 slices of bacon",
-    "1 large onion",
-    "2 tablespoons olive oil",
-    "Brioche buns"
+    "400 g ground beef (80% lean, 20% fat)",
+    "4 burger buns",
+    "4 slices American cheese",
+    "1 small onion, thinly sliced",
+    "4-8 pickle slices",
+    "2 tbsp mayonnaise",
+    "2 tbsp ketchup",
+    "1 tbsp mustard",
+    "1 tbsp butter",
+    "Salt and pepper to taste"
   ],
   "instructions": [
-    "Grill beef patties to desired doneness.",
-    "Melt 2 slices of cheese on top of each patty.",
-    "Caramelize onions in a pan with olive oil until golden brown.",
-    "Add crispy bacon on top of the burger.",
-    "Assemble burgers by spreading mayonnaise or ketchup on the bottom bun, followed by lettuce, tomato, and finally the beef patty topped with cheese and onions.",
-    "Top with brioche bun.",
-    "Add a tablespoon of sesame seeds on top before assembling the burger.",
-    "Add grated cheese on top of the patty before grilling.",
-    "Fry 3 slices of bacon and place them between the beef patty and the cheese after they are grilled but before adding the onions.",
-    "Serve the burgers immediately while they are hot."
+    "Divide the ground beef into 4 equal portions (about 100 g each) and roll them into loose balls. Season generously with salt and pepper.",
+    "Heat a cast-iron skillet or griddle over high heat until very hot. Add a small amount of butter to the skillet.",
+    "Place one beef ball in the skillet and immediately press it down firmly with a spatula to create a thin, flat patty. Repeat for the remaining beef balls, working in batches if necessary.",
+    "Cook the patties for 2-3 minutes without moving them, until a crispy crust forms on the bottom. Flip the patties and immediately place a slice of American cheese on each.",
+    "While the cheese melts, lightly toast the burger buns on the skillet or in a toaster.",
+    "In a small bowl, mix the mayonnaise, ketchup, and mustard to create the sauce.",
+    "Assemble the burgers: Spread the sauce on the bottom bun, top with a cheese-covered patty, pickles, and onions. Add the top bun and serve immediately."
   ]
 }

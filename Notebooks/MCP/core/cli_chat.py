@@ -17,15 +17,15 @@ class CLIChat:
         self.session = PromptSession(history=InMemoryHistory())
 
     async def run(self):
-        recipes = await self.connection_manager.call_resource(
-            "docs://recipes/list", "recipes"
-        )
-        prompts = await self.connection_manager.list_all_prompts_from_server("recipes")
-        data = json.loads(recipes[0].text)
-        recipe_names = [f"@{recipe['name']}" for recipe in data]
-
-        completer = FuzzyCompleter(RecipesAutocomplete(recipe_names, prompts))
         while True:
+            recipes = await self.connection_manager.call_resource(
+                "docs://recipes/list", "recipes"
+            )
+            prompts = await self.connection_manager.list_all_prompts_from_server("recipes")
+            data = json.loads(recipes[0].text)
+            recipe_names = [f"@{recipe['name']}" for recipe in data]
+
+            completer = FuzzyCompleter(RecipesAutocomplete(recipe_names, prompts))
             user_input = await self.session.prompt_async(
                 "Enter something: ", completer=completer
             )
